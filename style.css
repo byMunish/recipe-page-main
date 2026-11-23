@@ -12,6 +12,7 @@
       background-color: hsl(30, 54%, 90%);
       font-family: "Outfit", sans-serif;
       gap: 20px;
+      padding-top: 40px;
     }
     h1,h2{
         font-family: "Young Serif", serif;
